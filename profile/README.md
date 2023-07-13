@@ -1,11 +1,15 @@
 <!-- ## Hi there 👋   -->
  
   
-#  **THE ONE DEVS** ``` ```
- ```
+#  **THE ONE DEVS** 
  
- TheOneDevs is a talented group of developers with expertise in a wide range of technologies. As an organization, their members possess in-depth knowledge and skills in various programming languages
- ```
+ 
+ ## TheOneDevs is a talented group of developers with expertise in a wide range of technologies. As an organization, their members possess in-depth knowledge and skills in various programming languages
+ 
+
+
+ 
+
 ![<>](/profile/assets/react.png)
 ![<>](/profile/assets/native.gif)
 ![<>](/profile/assets/node.png)
@@ -41,3 +45,12 @@ Java: TheOneDevs demonstrates proficiency in Java, a widely-used programming lan
 
 [Visit this link to see our projects](https://github.com/orgs/THEONEDEVS/repositories)
 
+
+```
+members = ["Mike", "Kevoe", "Genius", "Freddito", "DW","Mede","Mastra","Nampellah"]
+
+for member in members:
+    print(member)
+
+    
+ ```
